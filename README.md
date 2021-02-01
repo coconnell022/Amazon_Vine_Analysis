@@ -27,6 +27,8 @@ The dataframe below shows a snapshot of the top 20 rows of the vine_table that w
 
 In summary, there are more unpaid non-Vine reviews than paid Vine reviews for shoes on Amazon. It can be concluded that there is a slight positivity bias for the reviews in the Vine program (those who are getting the product for free), since 59% of the Vine reviews were 5-star. This is likely due to the fact that members of this program have a slant towards rating the shoes in a positive manner since they did not have to pay for them, and potentially hoping that if they write a good review, they will be sent more products in the future. On the other hand, a significant number of the reviews come from people who are not in the Vine program and 54% still gave the shoes a 5-star review. It can be concluded that even though someone is more likely to write a positive review for a free product, the product itself could still be worthy of those reviews. Overall, it is advisable to analyze reviews that are not part of the Vine program when considering purchasing a product. 
 
+An additional analsis that can be performed with the given dataset that would support this statement, would be to determine how many times each member of the Vine program reviewed a similar product. For instance if a Vine member is typically reviewing fashion products instead of electronics, then that member is perhaps more likely to be invested in the shoe reviews and write a positive review. It could be helpful for the potential customer to know more information on the person giving the review to provide more insight.
+
 
         Caroline O'Connell
         January 31st, 2021
